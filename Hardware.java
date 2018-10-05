@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.hardware.HardwareMap;
 import com.qualcomm.robotcore.hardware.Servo;
 import com.qualcomm.robotcore.util.ElapsedTime;
 
-public class Hardware
+public class BasicHardware
 {
 	// Put your Hardware objects here
 	
@@ -15,7 +15,7 @@ public class Hardware
 	// Put class variables here
 
     // Don't touch the constructor
-    public Hardware(){
+    public BasicHardware(){
 
     }
 
