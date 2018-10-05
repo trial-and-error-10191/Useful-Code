@@ -8,7 +8,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 public class BasicTeleOp extends OpMode
 {
 	// Put your robot here
-    //Hardware robot = new Hardware();
+    //BaiscHardware robot = new BasicHardware();
 
     // Put your class variables here
 
