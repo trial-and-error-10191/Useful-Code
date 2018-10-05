@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
 @TeleOp(name="Iterative OpMode", group="Iterative Opmode")
-public class TeleOp extends OpMode
+public class BasicTeleOp extends OpMode
 {
 	// Put your robot here
     //Hardware robot = new Hardware();
